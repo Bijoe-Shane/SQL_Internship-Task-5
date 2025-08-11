@@ -1,27 +1,22 @@
-# SQL_Internship-Task-5
-Here’s a **README.md** content you can use for your GitHub repository for this SQL Joins project.
+📚 Library Management System – SQL Joins Practice
 
----
-
-# 📚 Library Management System – SQL Joins Practice
-
-## 📌 Objective
+📌 Objective
 
 This project demonstrates the use of **different types of SQL Joins** (`INNER`, `LEFT`, `RIGHT`, `NATURAL`, `SELF`, `CROSS`, and simulated `FULL JOIN`) using a **Library Management System** database containing Authors, Books, Members, and Issued Books.
 
 ---
 
-## 🛠️ Tools & Technologies
+ 🛠️ Tools & Technologies
 
-* **MySQL 8.x** – Database Management System
-* **MySQL Workbench** – Database design & query execution
-* **SQL** – DDL, DML, and Join queries
+ **MySQL 8.x** – Database Management System
+ **MySQL Workbench** – Database design & query execution
+ **SQL** – DDL, DML, and Join queries
 
 ---
 
-## 📁 Database Structure
+ 📁 Database Structure
 
-### **Tables & Fields**
+ **Tables & Fields**
 
 1. **authors**
 
@@ -57,7 +52,7 @@ This project demonstrates the use of **different types of SQL Joins** (`INNER`, 
 
 ---
 
-## 🔗 Relationships
+🔗 Relationships
 
 * **authors → books**: One author can write many books.
 * **members → issued\_books**: One member can have multiple issued books.
@@ -65,7 +60,7 @@ This project demonstrates the use of **different types of SQL Joins** (`INNER`, 
 
 ---
 
-## 📊 Join Types Implemented
+📊 Join Types Implemented
 
 1. **INNER JOIN** – Fetch books with their authors.
 2. **LEFT JOIN** – Show all members and their issued books (including those with none).
