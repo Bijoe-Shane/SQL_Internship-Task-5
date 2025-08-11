@@ -71,15 +71,14 @@ This project demonstrates the use of **different types of SQL Joins** (`INNER`, 
 7. **FULL JOIN (Simulated)** – Combine LEFT and RIGHT joins to show all records.
 
 ---
-
-## 📌 Deliverables
+📌 Deliverables
 
 * SQL scripts for creating tables.
 * SQL scripts for inserting sample data.
 * Join queries with explanations.
 * ER Diagram of the database.
 
----
+📌Summary 
 
-If you want, I can also add a **📜 Sample Output Section** showing example results for each join so your README looks more professional for GitHub.
-Do you want me to add that?
+Learned how to implement different SQL join types (INNER, LEFT, RIGHT, NATURAL, SELF, CROSS, and FULL JOIN) to retrieve related data from multiple tables.
+Gained hands-on experience in creating relationships, writing join queries, and understanding their use cases in a Library Management System.
